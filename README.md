@@ -1,4 +1,4 @@
-# AutoPenTT - Automated Penetration Testing Toolkit
+# AutoPen - Automated Penetration Testing Toolkit
 The battle-tested Automated Penetration Testing Toolkit
 #### **Overview**
 The Automated Penetration Testing Toolkit is a **command-line tool** designed to streamline security testing for web applications and APIs. Built around **OWASP standards** and enhanced with **AI-driven insights**, it offers a user-friendly way to identify vulnerabilities and improve application security. Integration with **GitHub Actions** ensures continuous and seamless security testing in CI/CD pipelines.
